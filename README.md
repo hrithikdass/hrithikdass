@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Hrithik Das</h1>
 <h3 align="center">A passionate developer from Bangalore, India.</h3>
   
-<p align="center">Visit me at <b><a href="https://portfolio-hrithikdass.vercel.app/">mahanth.dev</a></b></p>
+<p align="center">Visit me at <b><a href="https://portfolio-hrithikdass.vercel.app/">Hrithik Das</a></b></p>
 <p align="center">Ask me about <b>HTML/CSS, ReactJs, UI/UX design, Python , SQL , Linux</b></p>
 <p align="center">Reach me at <b>hrithikdas@gmail.com</b></p>
 
