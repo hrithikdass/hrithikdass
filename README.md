@@ -7,7 +7,7 @@
 <p align="center">Reach me at <b>hrithikdas@gmail.com</b></p>
 
 <!-- <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rishav4101" alt="rishav4101"/></a> </p> -->
-<p align="center"> <img src="https://visitor-badge.laobi.icu/badge?page_id=ZarryMyles" alt="zarrymyles" /> </p>
+<p align="center"> <img src="https://visitor-badge.laobi.icu/badge?page_id=hrithikdass" alt="hrithikdass" /> </p>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
