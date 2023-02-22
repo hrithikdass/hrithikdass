@@ -13,7 +13,7 @@
 <p align="center">
 <a href="https://www.linkedin.com/in/hrithik-dass/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height='50'/></a></p>
 
-<p align="center"><img align="center" src="https://readme-stats.clckblog.space/api/top-langs?username=zarrymyles&show_icons=true&locale=en&layout=compact&theme=radical" alt="ZarryMyles" /></p>
+<p align="center"><img align="center" src="https://readme-stats.clckblog.space/api/top-langs?username=hrithikdass&show_icons=true&locale=en&layout=compact&theme=radical" alt="hrithikdass" /></p>
 
 <div >
 <!-- <p style="display: flex;" display="flex" align="center" ><img align="center" src="https://readme-stats.clckblog.space/api?username=hrithikdass&show_icons=true&locale=en" alt="HrithikDas" /></p> -->
